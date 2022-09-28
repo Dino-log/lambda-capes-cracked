@@ -1,0 +1,47 @@
+[
+  {
+    "id": 499956729891782656,
+    "capes": [
+      {
+        "cape_uuid": "00000",
+        "player_uuid": "e407a8c0-ba44-497f-9ee0-73032cc5192f",
+        "type": "CONTRIBUTOR",
+        "color": {
+          "primary": "272727",
+          "border": "363636"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  {
+    "id": 499956729891782656,
+    "capes": [
+      {
+        "cape_uuid": "00001",
+        "player_uuid": "620839ff-96b5-4e65-85b3-803ca1df9c99",
+        "type": "CONTRIBUTOR",
+        "color": {
+          "primary": "272727",
+          "border": "363636"
+        }
+      }
+    ],
+    "is_premium": true
+  },
+  {
+    "id": 597022154999201803,
+    "capes": [
+      {
+        "cape_uuid": "00002",
+        "player_uuid": "1b9c16d9-b176-41f7-b372-bad252e23f5f",
+        "type": "CONTRIBUTOR",
+        "color": {
+          "primary": "272727",
+          "border": "363636"
+        }
+      }
+    ],
+    "is_premium": true
+  }
+]
